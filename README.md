@@ -1,40 +1,82 @@
- Hey! Nice to see you.
-Welcome to my page!
-I'm Thomas, Fullstack developer from  Lorient, France, currently living in  Stockholm, Sweden.
+<h1 align="center">Hi 👋, I'm Ramez Alsaadi</h1>
 
-Things I code with
-React Webpack Docker github actions Google Cloud Platform TypeScript Insomnia Apollo Heroku redux ReactiveX GraphQL Sass Styled Components git NestJs angular npm html5 Brave browser Rollup d3js Prettier MongoDB Nodejs
+<h3 align="center">
+Cybersecurity Student | Web Developer | Automotive Electrical Engineer
+</h3>
 
-Open source projects
-🎁 Projects	⭐ Stars	📚 Forks	🛎 Issues	📬 Pull requests
-React PullToRefresh component	Stars	Forks	Issues	Pull Requests
-Typescript & React Chrome Extension Starter	Stars	Forks	Issues	Pull Requests
-NodeJs Express TypeScript GraphQL Starter	Stars	Forks	Issues	Pull Requests
-My latest posts
-new Create Your First Ethereum Smart Contract With Remix IDE
-Build a Blockchain-powered chat from your browser!.
-new How to Create a Self-Updating README.md for Your GitHub Profile
-A good tutorial to do your first steps with GitHub Actions
-new How You Should Structure Your React Applications
-A matter of taste, sure, but here is an approach that scales.
-Pro Tips to Help You Get Started With Your Side Project
-Begin with solid foundations to keep the excitement kicking in...
-How to Take Care of Your Personal Branding as a Programmer
-It’s more than just refreshing your resume
-7 New Features Shipping With ES2020
-GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more
-Välkommen till  Stockholm!
-  
+---
 
-Above are the last 3 pictures posted by  @visitstockholm!
-Currently, the weather is: 4°C, clear sky
-Today, the sun rises at 06:39 and sets at 17:20.
+## 👨‍💻 About Me
 
-Where to find me
-Github Twitter LinkedIn Medium
+🎓 Cybersecurity Student
 
-This README file is generated every 3 hours!
-Last refresh: Monday, 3 March, 07:01 CET
-Create your own here!
+💻 Passionate about Web Development
 
- Stars Forks
+🔒 Interested in Ethical Hacking & Secure Software
+
+🚗 Automotive Electrical Engineer
+
+📚 Currently Learning:
+- JavaScript
+- Git & GitHub
+- Linux
+- Python
+- Networking
+
+🎯 Goal:
+Become a Professional Cybersecurity Engineer and Full Stack Developer.
+
+---
+
+## 🛠️ Languages & Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- C++
+- Git
+- GitHub
+
+(Currently improving every day.)
+
+---
+
+## 🚀 Current Projects
+
+🌐 Professional Portfolio Website
+
+🔐 Cybersecurity Learning Projects
+
+📖 JavaScript Practice Projects
+
+---
+
+## 📈 GitHub Goals
+
+✅ Build real-world projects
+
+✅ Learn secure coding
+
+✅ Contribute to Open Source
+
+✅ Improve problem-solving skills
+
+---
+
+## 📫 Connect With Me
+
+GitHub:
+(Your GitHub)
+
+LinkedIn:
+(Add Later)
+
+Portfolio:
+(Coming Soon)
+
+Email:
+(Add Later)
+
+---
+
+> "Every expert was once a beginner who never gave up."
