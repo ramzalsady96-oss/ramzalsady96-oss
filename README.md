@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Ramez Alsaadi</h1>
+<h1 align="center">Hi 👋 I'm Ramez Alsuadi</h1>
 
 <h3 align="center">
 Cybersecurity Student • Web Developer
@@ -10,13 +10,13 @@ Cybersecurity Student • Web Developer
 
 🎓 Cybersecurity Student
 
-💻 Learning Web Development
+💻 Learning Design Development
 
 🔒 Interested in Cybersecurity
 
 🚗 Automotive Electrical Engineer
 
-🌱 Currently Learning
+¶ Currently Learning
 - HTML
 - CSS
 - JavaScript
@@ -39,8 +39,6 @@ Cybersecurity Student • Web Developer
 
 ✅ Master JavaScript
 
-✅ Learn Python
-
 ✅ Learn Linux
 
 ✅ Build Cybersecurity Projects
@@ -51,7 +49,7 @@ Cybersecurity Student • Web Developer
 
 GitHub
 
-LinkedIn (Coming Soon)
+LinkedIn (https://www.linkedin.com/in/ramez-faisal-alsaade-890088419?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 Portfolio (Coming Soon)
 
