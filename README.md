@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ramez Alsaadi</h1>
+<h1 align="center">Hi 👋 I'm Ramez Alsaadi</h1>
 
 <h3 align="center">
-Cybersecurity Student | Web Developer | Automotive Electrical Engineer
+Cybersecurity Student • Web Developer
 </h3>
 
 ---
@@ -10,73 +10,51 @@ Cybersecurity Student | Web Developer | Automotive Electrical Engineer
 
 🎓 Cybersecurity Student
 
-💻 Passionate about Web Development
+💻 Learning Web Development
 
-🔒 Interested in Ethical Hacking & Secure Software
+🔒 Interested in Cybersecurity
 
 🚗 Automotive Electrical Engineer
 
-📚 Currently Learning:
+🌱 Currently Learning
+- HTML
+- CSS
 - JavaScript
 - Git & GitHub
-- Linux
-- Python
-- Networking
-
-🎯 Goal:
-Become a Professional Cybersecurity Engineer and Full Stack Developer.
-
----
-
-## 🛠️ Languages & Technologies
-
-- HTML5
-- CSS3
-- JavaScript
 - C++
-- Git
-- GitHub
-
-(Currently improving every day.)
 
 ---
 
-## 🚀 Current Projects
+## 🛠️ Tech Stack
 
-🌐 Professional Portfolio Website
-
-🔐 Cybersecurity Learning Projects
-
-📖 JavaScript Practice Projects
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode" />
+</p>
 
 ---
 
-## 📈 GitHub Goals
+## 🎯 2026 Goals
 
-✅ Build real-world projects
+✅ Build my Portfolio Website
 
-✅ Learn secure coding
+✅ Master JavaScript
 
-✅ Contribute to Open Source
+✅ Learn Python
 
-✅ Improve problem-solving skills
+✅ Learn Linux
+
+✅ Build Cybersecurity Projects
 
 ---
 
 ## 📫 Connect With Me
 
-GitHub:
-(Your GitHub)
+GitHub
 
-LinkedIn:
-(Add Later)
+LinkedIn (Coming Soon)
 
-Portfolio:
-(Coming Soon)
-
-Email:
-(Add Later)
+Portfolio (Coming Soon)
 
 ---
 
-> "Every expert was once a beginner who never gave up."
+⭐ Every expert was once a beginner.
