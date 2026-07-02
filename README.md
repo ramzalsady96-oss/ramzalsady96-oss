@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Ramez Alsuadi</h1>
+<h1 align="center">Hi 👋 I'm Ramez Al-Saadi</h1>
 
 <h3 align="center">
 Cybersecurity Student • Web Developer
@@ -10,7 +10,7 @@ Cybersecurity Student • Web Developer
 
 🎓 Cybersecurity Student
 
-💻 Learning Design Development
+💻 Learning Website design
 
 🔒 Interested in Cybersecurity
 
@@ -19,7 +19,7 @@ Cybersecurity Student • Web Developer
 ¶ Currently Learning
 - HTML
 - CSS
-- JavaScript
+- JavaScrCSS
 - Git & GitHub
 - C++
 
